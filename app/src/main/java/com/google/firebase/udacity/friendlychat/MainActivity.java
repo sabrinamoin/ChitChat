@@ -44,6 +44,10 @@ import com.google.firebase.database.FirebaseDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
+
+//Hey sabrina, the demo app looks really cool! I'm very interested in seeing how this app turns out, 
+// and maybe I'll spin up an iOS version so we can text each other? 
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
